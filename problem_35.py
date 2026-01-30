@@ -1,5 +1,5 @@
 # Problem 35: Calculate percentage
-# Find and fix the error
+# Find and fix the error 
 
 def calculate_percentage(obtained, total):
     percentage = (obtained / total) * 100
