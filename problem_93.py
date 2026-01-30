@@ -1,4 +1,4 @@
-# Problem 93: Find longest common prefix
+# Problem 93:  Find longest common prefix
 # Find and fix the error
 
 def longest_common_prefix(strs):
