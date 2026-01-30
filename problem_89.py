@@ -1,5 +1,5 @@
 # Problem 89: Check if number is palindrome
-# Find and fix the error
+# Find and fix  the error
 
 def is_palindrome_number(n):
     original = n
