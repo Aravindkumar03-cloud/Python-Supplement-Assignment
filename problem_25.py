@@ -1,5 +1,5 @@
 # Problem 25: Find GCD of two numbers
-# Find and fix the error
+# Find and fix the error 
 
 def gcd(a, b):
     while b != 0:
