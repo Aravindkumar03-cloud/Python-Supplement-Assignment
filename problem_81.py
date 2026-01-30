@@ -1,5 +1,5 @@
 # Problem 81: Check if string has balanced brackets
-# Find and fix the error
+# Find and fix the error 
 
 def balanced_brackets(s):
     stack = []
