@@ -1,5 +1,5 @@
 # Problem 72: Count uppercase and lowercase letters
-# Find and fix the error
+# Find and fix the error 
 
 def count_case(text):
     upper = 0
