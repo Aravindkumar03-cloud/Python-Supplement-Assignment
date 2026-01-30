@@ -2,7 +2,7 @@
 # Find and fix the error
 
 words = ["Hello", "World", "Python"]
-sentence = ""
-for word in words:
-    sentence += word + " "
+sentence = " ".join(words)  # best way to join list of strings
+
 print(f"Sentence: {sentence}")
+
