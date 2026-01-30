@@ -1,5 +1,5 @@
 # Problem 64: Merge two sorted lists
-# Find and fix the error
+# Find and fix the error 
 
 def merge_sorted(list1, list2):
     merged = []
