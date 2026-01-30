@@ -1,5 +1,5 @@
 # Problem 33: Check if string contains only digits
-# Find and fix the error
+# Find and fix the error 
 
 def is_all_digits(text):
     for char in text:
