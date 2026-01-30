@@ -1,4 +1,4 @@
-# Problem 97: Remove element from list
+# Problem 97:  Remove element from list
 # Find and fix the error
 
 def remove_element(nums, val):
