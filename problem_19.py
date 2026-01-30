@@ -1,5 +1,5 @@
 # Problem 19: Calculate power of a number
-# Find and fix the error
+# Find and fix the error 
 
 def power(base, exponent):
     result = 1
