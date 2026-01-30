@@ -1,5 +1,5 @@
 # Problem 71: Transpose a matrix
-# Find and fix the error
+# Find and fix the error 
 
 def transpose(matrix):
     rows = len(matrix)
