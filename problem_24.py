@@ -1,5 +1,5 @@
 # Problem 24: Remove all spaces from a string
-# Find and fix the error
+# Find and fix the error 
 
 text = "Hello World From Python"
 no_spaces = ""
