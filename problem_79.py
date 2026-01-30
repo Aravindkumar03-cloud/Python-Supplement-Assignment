@@ -1,5 +1,5 @@
 # Problem 79: Calculate compound interest
-# Find and fix the error
+# Find and fix the error 
 
 def compound_interest(principal, rate, time, n):
     amount = principal * (1 + rate / (n * 100)) ** (n * time)
