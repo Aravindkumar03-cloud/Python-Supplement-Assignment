@@ -1,5 +1,5 @@
 # Problem 60: Check if number is Armstrong number
-# Find and fix the error
+# Find and fix the error 
 
 def is_armstrong(n):
     num_str = str(n)
