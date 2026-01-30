@@ -2,11 +2,11 @@
 # Find and fix the error
 
 def has_duplicates(lst):
-    seen = []
+    seen = set()  # use set for O(1) lookup
     for item in lst:
         if item in seen:
             return True
-        seen.append(item)
+        seen.add(item)
     return False
 
 numbers = [1, 2, 3, 4, 5]
